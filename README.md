@@ -1,6 +1,6 @@
 # KayaVuln - Gelişmiş Yerel LLM Arayüzü - Advanced-AI-LLM-Interface - Ollama
 
-![KayaVuln Banner](assets/kaya.png) <!-- Bu görseli kendiniz oluşturup 'assets' klasörüne eklemelisiniz -->
+![KayaVuln Banner](https://raw.githubusercontent.com/vulnkya/KayaVuln-Gelismis-LLM-Arayuzu-Advanced-AI-LLM-Interface-Ollama-Similar/refs/heads/main/assets/Generated%20Image%20April%2003%2C%202026%20-%205_58AM.png)
 
 ## 🌟 Proje Hakkında
 
@@ -34,7 +34,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone https://github.com/KULLANICIADINIZ/KayaVuln.git
+    git clone https://github.com/vulnkya/KayaVuln.git
     cd KayaVuln
     ```
     *(`KULLANICIADINIZ` ve `KayaVuln` kısmını kendi GitHub kullanıcı adınız ve depo adınızla değiştirin.)*
