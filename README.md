@@ -1,4 +1,4 @@
-# KayaVuln - Gelişmiş Yerel LLM Arayüzü
+# KayaVuln - Gelişmiş Yerel LLM Arayüzü - Advanced-AI-LLM-Interface - Ollama
 
 ![KayaVuln Banner](assets/kaya.png) <!-- Bu görseli kendiniz oluşturup 'assets' klasörüne eklemelisiniz -->
 
