@@ -1,6 +1,6 @@
 # KayaVuln - Gelişmiş Yerel LLM Arayüzü - Advanced-AI-LLM-Interface - Ollama
 
-![KayaVuln Banner](https://raw.githubusercontent.com/vulnkya/KayaVuln-Gelismis-LLM-Arayuzu-Advanced-AI-LLM-Interface-Ollama-Similar/refs/heads/main/assets/Generated%20Image%20April%2003%2C%202026%20-%205_58AM.png)
+![KayaVuln Banner](assets/kaya.png)
 
 ## 🌟 Proje Hakkında
 
