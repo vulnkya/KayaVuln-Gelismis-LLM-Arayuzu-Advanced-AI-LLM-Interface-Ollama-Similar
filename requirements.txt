@@ -1,0 +1,7 @@
+PyQt5
+llama-cpp-python
+requests
+pypdf
+typer[all]
+rich
+huggingface_hub
