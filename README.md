@@ -34,11 +34,10 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip
 
 1.  **Projeyi Klonlayın:**
     ```bash
-    git clone https://github.com/vulnkya/KayaVuln.git](https://github.com/vulnkya/KayaVuln-Gelismis-LLM-Arayuzu-Advanced-AI-LLM-Interface-Ollama-Similar.git
-    cd KayaVuln
+    git clone https://github.com/vulnkya/beratemrekaya.git](https://github.com/vulnkya/KayaVuln-Gelismis-LLM-Arayuzu-Advanced-AI-LLM-Interface-Ollama-Similar.git
+    cd beratemrekaya
     ```
-    *(`KULLANICIADINIZ` ve `KayaVuln` kısmını kendi GitHub kullanıcı adınız ve depo adınızla değiştirin.)*
-
+    
 2.  **Sanal Ortam Oluşturun ve Aktive Edin (Şiddetle Tavsiye Edilir):**
     ```bash
     python3 -m venv venv
