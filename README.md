@@ -98,3 +98,5 @@ Sanal ortamınız aktifken (terminalde `(venv)` gördüğünüzden emin olun):
 *   **Arayüz Stilleri:** `ui/main_window.py` ve diğer `ui` dosyalarındaki `setStyleSheet` metodlarını düzenleyerek veya harici bir `.qss` (Qt Style Sheet) dosyası bağlayarak arayüzün görünümünü tamamen değiştirebilirsiniz.
 *   **LLM Parametreleri:** `Settings` sayfasındaki kaydırıcılar ve giriş alanları aracılığıyla LLM çıkarım parametrelerini kişiselleştirin.
 *   **Tema:** `Settings` sayfası aracılığıyla tema tercihlerinizi yönetin.
+
+Contact qTox: 18EAB3D22CD3B9773AF7FBF51E818C8DA779048DF561B497FE944D6E1B92097883DBA8B805E3
